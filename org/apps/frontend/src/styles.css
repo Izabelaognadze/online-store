@@ -2,4 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* You can add global styles to this file, and also import other style files */
+.responsive {
+  @apply mx-6 md:mx-10 lg:mx-16 xl:mx-auto max-w-[1110px];
+}
