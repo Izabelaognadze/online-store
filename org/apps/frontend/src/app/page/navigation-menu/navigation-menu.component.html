@@ -1,6 +1,7 @@
-<div class="">
-    <div class="" *ngFor="let i of items">
-        {{i.id}}
+<div class="flex gap-10 flex-wrap my-20 cursor-pointer">
+    <div class="flex flex-col max-w-[15rem] gap-10" *ngFor="let i of items">
+        <img src={{i.imgURL}} alt="" class="rounded-lg">
+        <p class="font-bold text-clr-orange text-lg">{{i.name}}</p>
+        <p class="text-2xl font-bold">{{i.price}} ₾</p>
     </div>
 </div>
-<div class="">idk</div>

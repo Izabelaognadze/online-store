@@ -11,6 +11,7 @@ import { ReactiveFormsModule } from '@angular/forms';
   selector: 'org-navigation-menu',
   standalone: true,
   imports: [CommonModule, HttpClientModule, ReactiveFormsModule],
+  providers: [ItemService],
   templateUrl: './navigation-menu.component.html',
   styleUrl: './navigation-menu.component.css',
 })
@@ -53,8 +54,8 @@ export class NavigationMenuComponent implements OnInit{
       this.items = d
     });
   }
-  
-  constructor(private itemService : ItemService) { }
+
+  constructor(private itemService: ItemService) {}
 
   ngOnInit(): void {
     this.loadItems()

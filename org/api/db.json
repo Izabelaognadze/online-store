@@ -6,7 +6,7 @@
             "price" : "1699", 
             "category " : "headphones",
             "seller " : "apple", 
-            "imgURL" : ""
+            "imgURL" : "assets/product-images/Apple AirPods Max Silver.jpeg"
         },
         {
             "id": "2",
@@ -14,7 +14,7 @@
             "price" : "399", 
             "category " : "headphones",
             "seller " : "JBL", 
-            "imgURL" : ""
+            "imgURL" : "assets/product-images/JBL Live 660 NC Bluetooth Headphones Black.jpeg"
         },
         {
             "id": "3",
@@ -22,7 +22,7 @@
             "price" : "399", 
             "category " : "headphones",
             "seller " : "JBL", 
-            "imgURL" : ""
+            "imgURL" : "assets/product-images/JBL Live 660 NC Bluetooth Headphones White.jpeg"
         },
         {
             "id": "4",
@@ -30,15 +30,15 @@
             "price" : "1699", 
             "category " : "headphones",
             "seller " : "apple", 
-            "imgURL" : ""
+            "imgURL" : "assets/product-images/Apple AirPods Max Blue.jpeg"
         },
         {
             "id": "5",
-            "name" : "Samsung Type-C Earphones EO-IC100BWEGUS White",
-            "price" : "59", 
+            "name" : "JBL T110 Earphone In Ear Red",
+            "price" : "29", 
             "category " : "earphones",
-            "seller " : "samsung", 
-            "imgURL" : ""
+            "seller " : "JBL", 
+            "imgURL" : "assets/product-images/JBL T110 Earphone In Ear Red.jpeg"
         },
         {
             "id": "6",
@@ -46,7 +46,7 @@
             "price" : "59", 
             "category " : "earphones",
             "seller " : "samsung", 
-            "imgURL" : ""
+            "imgURL" : "assets/product-images/Samsung Type-C Earphones EO-IC100BWEGUS Black.jpeg"
         },
         {
             "id": "7",
@@ -54,7 +54,7 @@
             "price" : "69", 
             "category " : "earphones",
             "seller " : "apple", 
-            "imgURL" : ""
+            "imgURL" : "assets/product-images/Apple EarPods with Lightning Connector MMTN2 White.png"
         },
         {
             "id": "8",
@@ -62,7 +62,7 @@
             "price" : "59", 
             "category " : "earphones",
             "seller " : "samsung", 
-            "imgURL" : ""
+            "imgURL" : "assets/product-images/Samsung Type-C Earphones EO-IC100BWEGUS White.jpeg"
         },
         {
             "id": "9",
@@ -70,7 +70,7 @@
             "price" : "249", 
             "category " : "buds",
             "seller " : "samsung", 
-            "imgURL" : ""
+            "imgURL" : "assets/product-images/Samsung SM-R400 Galaxy Buds FE Black.jpeg"
         },
         {
             "id": "10",
@@ -78,7 +78,7 @@
             "price" : "279", 
             "category " : "buds",
             "seller " : "JBL", 
-            "imgURL" : ""
+            "imgURL" : "assets/product-images/JBL T130 NC Truly Wireless Blue.jpeg"
         },
         {
             "id": "11",
@@ -86,7 +86,7 @@
             "price" : "599", 
             "category " : "buds",
             "seller " : "apple", 
-            "imgURL" : ""
+            "imgURL" : "assets/product-images/Apple AirPods 3 With MagSafe Charging Case White.jpeg"
         }
     ]
 }
